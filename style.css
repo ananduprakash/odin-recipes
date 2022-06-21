@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(255, 230, 0, 0.356); 
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+h1{
+    background-color: rgb(233, 1, 1);
+    color: white;
+    }
+
+.list0{
+    background-color: rgba(208, 255, 0, 0.692);
+    font-size: 36px;
+    }
+
+.list1{
+    background-color: rgba(157, 255, 0, 0.692);
+    font-size: 20px;
+}
+
+.list2{
+    background-color: rgba(0, 255, 179, 0.788);
+    font-size: 20px;
+}
+
+h2{
+    background-color: rgb(245, 87, 14);
+}
+
+h3{
+    background-color: rgb(245, 87, 14);
+}
+}
+
+.l1{
+    background-color: rgba(255, 228, 72, 0.637);
+}
+
+.l2{
+    background-color: rgba(255, 228, 72, 0.986);
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+p{
+    font-size: 18px;
+}
